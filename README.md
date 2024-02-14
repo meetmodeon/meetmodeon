@@ -1,4 +1,4 @@
-![logo]https://github.com/meetmodeon/meetmodeon/blob/main/Meet%20Mode%20on.png
+![logo](https://github.com/meetmodeon/meetmodeon/blob/main/Meet%20Mode%20on.png)
 <h1 align="center">Hi 👋, I'm Meet Yadav</h1>
 <h3 align="center">A passionate Java developer from Nepal</h3>
 
